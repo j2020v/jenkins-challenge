@@ -1,6 +1,6 @@
 # Jenkins Challenge 🔧💻🎰📬
 
-Hey guys :) We have a nice Challenge for you.
+Hey guys! We have a nice Challenge for you.
 
 Here is the situation: Our Jenkins box on AWS (Amazon Web Services) isn't working.
 
